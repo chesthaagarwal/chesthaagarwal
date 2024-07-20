@@ -15,6 +15,7 @@ Sept 2023 - Oct 2023
 -Developed 15+ advanced features tailored to SAP and SOA environments, enhancing model training efficiency and boosting forecast accuracy.
 
 💡 Personal Projects
+
 1. The Impact of Sentiment on Emerging Stock Markets
 Nov 2023 - Mar 2024
 -Performed sentiment analysis on stock markets using RBI speeches.
@@ -38,6 +39,7 @@ Coursework: DBMS, OOPs, Data Structures, DAA, OS, Computer Networks, Machine Lea
 Soft Skills: Adaptability to Change, Critical Evaluator, Solution Oriented, Public Speaking
 
 🌟 Positions of Responsibility and Extracurriculars
+
 -> Core Member, Innovation and Training Club, RIT
 Oct 2022 - Present
 Tech-focused student club providing hands-on training in emerging technologies.
