@@ -2,11 +2,13 @@ Hi there! I'm Chestha Agarwal 👋
 Welcome to my GitHub profile! Here's a bit about me:
 
 🎓 Education
+
 Ramaiah Institute of Technology, Bangalore
 B.E - Computer Science (AI/ML)
 2021-2025
 
 💼 Experience
+
 Software Intern, VernaSoft Consultancy India Pvt Ltd
 Sept 2023 - Oct 2023
 -Led data preprocessing efforts, cleaning and transforming 60+ GB of raw data.
