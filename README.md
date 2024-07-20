@@ -33,9 +33,13 @@ Nov 2022 - Mar 2023
 -Enhanced user experience, resulting in a 30% increase in user interaction with the system.
 
 🛠 Technical Skills and Interests
+
 Languages: C++, Python basics, JavaScript
+
 Frameworks/Library: Git, MySQL, PHP, React, Node.js, Tensorflow
+
 Coursework: DBMS, OOPs, Data Structures, DAA, OS, Computer Networks, Machine Learning
+
 Soft Skills: Adaptability to Change, Critical Evaluator, Solution Oriented, Public Speaking
 
 🌟 Positions of Responsibility and Extracurriculars
