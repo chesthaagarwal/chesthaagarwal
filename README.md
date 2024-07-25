@@ -45,10 +45,13 @@ Soft Skills: Adaptability to Change, Critical Evaluator, Solution Oriented, Publ
 🌟 Positions of Responsibility and Extracurriculars
 
 -> Core Member, Innovation and Training Club, RIT
+
 Oct 2022 - Present
+
 Tech-focused student club providing hands-on training in emerging technologies.
 
 -> Active Member, Tennis Club, RIT
+
 Aug 2023 - Present
 
 
